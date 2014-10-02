@@ -1,9 +1,10 @@
 {
-  "name": "gulp-rev",
-  "version": "1.1.0",
+  "name": "gulp-rev-looker",
+  "version": "1.1.1",
   "description": "Static asset revisioning by appending content hash to filenames: unicorn.css => unicorn-098f6bcd.css",
   "license": "MIT",
-  "repository": "sindresorhus/gulp-rev",
+  "repository": "looker/gulp-rev",
+  "private": true,
   "author": {
     "name": "Sindre Sorhus",
     "email": "sindresorhus@gmail.com",
