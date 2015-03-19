@@ -1,3 +1,7 @@
+# DELETE THIS AFTER SOME TIME WITH NEW ASSET PIPELINE
+
+
+
 # [gulp](https://github.com/wearefractal/gulp)-rev [![Build Status](https://travis-ci.org/sindresorhus/gulp-rev.svg?branch=master)](https://travis-ci.org/sindresorhus/gulp-rev)
 
 > Static asset revisioning by appending content hash to filenames
